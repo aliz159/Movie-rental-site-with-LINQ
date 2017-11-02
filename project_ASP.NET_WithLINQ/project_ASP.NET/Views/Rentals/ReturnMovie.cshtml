@@ -1,0 +1,124 @@
+﻿@using project_ASP.NET.DAL;
+@Model
+@{
+    Layout = "~/Layout.cshtml";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ReturnMovie</title>
+
+    <style>
+        body {
+            background-image: url('../../backgrounImg/photodune-1625438-movies-film-blue-light-background-s.jpg');
+            background-size: cover;
+            width: 98%;
+            height: calc(100%);
+            background-color: black;
+            background-repeat: no-repeat;
+        }
+        form {
+            width: 380px;
+            background-color: black;
+            margin: auto;
+            padding: 20px;
+            font-size: 23px;
+            opacity: 0.8;
+            color: white;
+            box-shadow: 8px 8px 20px black;
+            padding-top: 45px;
+            margin-bottom: 230px;
+        }
+        select {
+            width: 350px;
+            height: 35px;
+            font-size: 20px;
+        }
+
+        #submit {
+            font-size: 20px;
+            font-weight: bold;
+            width: 100px;
+            height: 30px;
+        }
+
+            #submit:hover {
+                font-size: 19px;
+                background-color: dodgerblue;
+            }
+        .pRED {
+            color: red;
+            font-weight: bold;
+        }
+        .pGREEN {
+            color: green;
+            font-weight: bold;
+        }
+        h2 {
+            color: white;
+            text-shadow: 4px 4px 1px black;
+            text-align: center;
+            font-size: 55px;
+            margin-bottom: 50px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Return Movie Form</h2>
+
+    <form method="post" action="~/Rentals/Delete" id="commentForm">
+         
+            select Your Name:<br />
+            <select name="name" id="name" required>
+                @foreach (var item in RentalTableHelper.GetCustomersWhoRented())
+                {
+                    <option>@item</option>
+                }                        
+            </select>
+
+            <br /><br />Select Movie To Return:<br />
+            <select name="movie" id="movie" required>
+                @foreach (var item in RentalTableHelper.GetMoviesRentedNames())
+                {
+                    <option>@item</option>
+                }
+            </select><br /><br />
+
+            <button id="submit" type="submit">Submit</button>
+            <p class="pGREEN">@ViewBag.success</p>
+            <p class="pRED">@ViewBag.ErrorMsg</p>
+    </form>
+
+
+    <script src="~/Scripts/jquery-3.1.1.min.js"></script>
+    <script src="~/Scripts/jquery-1.10.2.intellisense.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script>
+        $(document).ready(function () {
+
+            $(".pRED").val("");
+
+            jQuery.validator.addMethod("noSpace", function (value, element) {
+                return value.indexOf(" ") < 0 && value != "";
+            }, "No space please and don't leave it empty");
+
+            $("#commentForm").validate({
+                rules: {
+                    name: { required: true, noSpace: true },
+                    movie: { required: true},
+                },
+                messages: {
+                    userName: {
+                        required: "Please chooes your name",
+                        noSpace: "No space please and don't leave it empty"
+                    },
+                    subscription: {
+                        required: "Please choose movie to retuen",
+                    },
+                }
+            })
+        });
+    </script>
+</body >
+</html >

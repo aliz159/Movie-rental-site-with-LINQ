@@ -1,0 +1,101 @@
+﻿@{
+    Layout = "~/Layout.cshtml";
+}
+@model List<Customer>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <style>
+        body {
+            background-image: url(/backgrounImg/23947013-grunge-scratched-dirty-film-strip-film-reel-background-Stock-Photo.jpg);
+            background-size: cover;
+            width: 98%;
+            height: calc(100%);
+        }
+        table {
+            background-color: white;
+            border: none;
+            width: 90%;
+            opacity: 0.9;
+            font-weight: bold;
+            font-size: 19px;
+            margin:auto;
+        }
+        tr:nth-child(even) {
+            background-color: #7a6f64;
+        }
+
+        th, td {
+            padding: 10px;
+            text-align: left;
+            text-align: center;
+        }
+        th {
+            font-size: 22px;
+            font-weight: normal;
+            text-shadow:1px 0px 2px black;
+        }
+        a {
+            display: inline-block;
+            margin-right: 10px;
+            margin-left: 30px;
+            text-decoration: none;
+            color: black;
+            text-align: center;
+            width: 250px;
+            margin-bottom: 30px;
+            background-color: white;
+        }
+
+            a:visited {
+                color: black;
+            }
+
+            a:hover {
+                color: #61c5d5;
+            }
+
+        #p2 {
+            padding-top: 30px;
+            font-size: 25px;
+            font-family: Arial;
+            font-weight: bold;
+            margin-bottom: 30px;
+            text-align: center;
+            background-color: white;
+            width: 170px;
+            display: inline;
+            margin-left:480px;
+        }
+    </style>
+</head>
+
+
+<body>
+    <p id="p2">
+        <a href="~/Customers/New">New Customer Registration</a>
+    </p>
+
+    <table>
+        <tr>
+            <th>Customer Name</th>
+            <th>Age</th>
+            <th>Subscription Type</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Age</td>
+                <td>@item.Subscription</td>              
+            </tr>
+        }
+    </table>
+</body>
+</html>
+
+
+

@@ -1,0 +1,111 @@
+﻿@{Layout = "~/Layout.cshtml";}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>New</title>
+    <style>
+        body {
+            background-image: url(/backgrounImg/23947013-grunge-scratched-dirty-film-strip-film-reel-background-Stock-Photo.jpg);
+            background-size: cover;
+            width: 98%;
+            height: calc(100%);
+        }
+        form {
+            width: 370px;
+            background-color: #2e241c;
+            border: 2px solid gray;
+            margin-left: 100px;
+            padding: 20px;
+            font-size: 23px;
+            opacity: 0.8;
+            color: #e6e2d9;
+            border-radius: 10px;
+            box-shadow: 4px 4px 20px #5f2f0f;
+            margin-bottom:170px;
+        }
+
+        input, select { width:350px;   height:35px;  font-size:20px; }
+
+        #submit { font-size:20px;  font-weight:bold;  width:100px;  height:30px; }
+
+        #submit:hover { font-size: 19px;   background-color: dodgerblue; }
+
+        .pRED { color: red;  font-weight: bold;  margin:1px; }
+
+        .error { color: red;   font-size: 19px;  width:360px;}
+        h2 {
+            color: #423830;
+            text-shadow: 4px 4px 4px #c7b6a7;
+            margin-left: 140px;
+            font-size: 40px;
+        }
+        p {
+            margin-bottom: 1px;
+            margin-top: 1px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Registration Form</h2>
+
+    <form method="post" action="~/Customers/Save" id="commentForm">
+        Enter Your Name:<br />
+        <input type="text" name="userName" id="userName" required/>
+        <p id="pNameError" class="pRED">@TempData["errorName"]</p>
+
+        <br /><br />Enter Your Age:<br />
+        <input type="number" name="userAge" id="userAge" step="1" min="18" required/>
+        <p class="pRED" id="pAgeError">@TempData["erroruserAge"]</p>
+
+        <br /><br />Select a subscription Type:<br />
+        <select name="subscription" id="subscription" required>
+            <option selected></option>
+            <option>Monthly</option>
+            <option>Quarterly</option>
+            <option>Annual</option>
+            <option>Pay as you go</option>
+        </select>
+        <p id="pSubError" class="pRED">@TempData["errorSub"]</p>
+
+        <p id="p3" style="color:red">@TempData["error"]</p><br />
+        <input type="submit" value="Submit" id="submit"/>
+        @Html.ValidationSummary()
+    </form>
+
+
+    <script src="~/Scripts/jquery-3.1.1.min.js"></script>
+    <script src="~/Scripts/jquery-1.10.2.intellisense.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script>
+        $(document).ready(function ()
+        {        
+            jQuery.validator.addMethod("noSpace", function (value, element) {               
+                return value.indexOf(" ") < 0 && value != "";
+            }, "No space please and don't leave it empty");
+
+            $("#commentForm").validate({
+                rules: {
+                    userName: { required: true, noSpace: true },
+                    userAge: { required: true, min: 18, noSpace: true },
+                    subscription: { required: true },
+                },
+                messages: {
+                    userName: {
+                        required: "Please specify your name",
+                        noSpace: "No space please and don't leave it empty"
+                    },
+                    userAge: {
+                        required: "Please specify your age (must be over 18)",
+                        min: "Your age must be over 18",
+                        noSpace: "No space please and don't leave it empty"
+                    },
+                    subscription: {
+                        required: "Please choose subscription option",
+                    },
+                }                
+            })          
+        });
+   </script>      
+</body>
+</html>

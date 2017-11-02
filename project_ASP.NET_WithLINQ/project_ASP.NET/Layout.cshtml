@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <style>
+        a {
+            display: inline-block;
+            margin-right: 10px;
+            margin-left: 30px;
+            text-decoration: none;
+            color: black;
+            text-align: center;
+            width: 250px;
+            margin-bottom: 30px;
+            background-color: white;
+            height:40px;
+        }
+
+            a:visited {
+                color: black;
+            }
+
+            a:hover {
+                color: #61c5d5;
+            }
+
+        #p1 {          
+            padding-top: 30px;
+            font-size: 30px;
+            font-family: Arial;
+            font-weight: bold;
+            margin-bottom: 60px;
+        }
+        #footer {
+            width: 300px;
+            font-size: 20px;
+            margin: 10%;
+            margin-left: 38%;
+            background-color: white;
+            margin-bottom: 7px;
+        }
+    </style>
+</head>
+<body>
+    <p id="p1">
+        <a href="~/Home/Index">Home</a>
+        <a href="~/Customers/Index">Customers</a>
+        <a href="~/Movies/Index">Movies</a>
+        <a href="~/Rentals/New">New Renatal</a>
+    </p>
+
+    @RenderBody()
+
+    <p id="footer">&#64; 2017 Tec - Career Movie Rental</p>
+</body>
+</html>

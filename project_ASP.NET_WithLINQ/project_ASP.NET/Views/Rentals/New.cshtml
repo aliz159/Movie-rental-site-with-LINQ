@@ -1,0 +1,137 @@
+﻿@using project_ASP.NET.DAL;
+
+@Model
+@{
+    Layout = "~/Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>New</title>
+    <style>
+        body {
+            background-image: url('../../backgrounImg/photodune-1625438-movies-film-blue-light-background-s.jpg');
+            background-size: cover;
+            width: 98%;
+            height: calc(100%);
+            background-color: black;
+            background-repeat: no-repeat;
+        }
+        div {
+            width: 380px;
+            background-color: black;
+            margin: auto;
+            padding: 20px;
+            font-size: 23px;
+            opacity: 0.8;
+            color: white;
+            box-shadow: 8px 8px 20px black;
+            padding-top: 45px;
+        }
+        select {
+            width: 350px;
+            height: 35px;
+            font-size: 20px;
+        }
+        #submit {
+            font-size: 20px;
+            font-weight: bold;
+            width: 100px;
+            height: 30px;
+        }
+
+            #submit:hover {
+                font-size: 19px;
+                background-color: dodgerblue;
+            }
+        .pRED {
+            color: red;
+            font-weight: bold;
+        }
+        #ReturnMovieLink {
+            display: inline;
+            padding-top: 30px;
+            font-size: 25px;
+            font-family: Arial;
+            font-weight: bold;
+            text-align: center;
+            background-color: white;
+            width: 300px;
+            margin-top: 300px;
+            margin-bottom: 250px;
+            margin-left: 485px;
+        }
+        h2 {
+            color: white;
+            text-shadow: 4px 4px 1px black;
+            text-align:center;
+            font-size: 55px;
+            margin-bottom:50px;
+            margin-top: 50px;
+        }
+    </style>
+</head>
+
+<body>
+    <h2>Rent Movie Form</h2>
+
+    <div id="myDiv">
+        select Your Name:<br />
+        <select name="name" id="name" required>
+            @foreach (var item in CustomerTabelHelper.GetCustomersNameOnly())
+            {
+                <option>@item</option>
+            }
+        </select>
+
+        <br /><br />select Movie:<br />
+
+        <select name="movie" id="movie" required>
+            @foreach (var item in MoviesTabelHelper.GetMoviesList())
+            {
+                if (!(RentalTableHelper.GetMoviesRentedNames().Contains(item.Name)))
+                {
+                    <option>@item.Name</option>
+                }
+            }
+        </select><br /><br />
+
+        <button id="submit" type="submit" onclick="ajaxRequest()">Submit</button>
+        <p id="showText"></p>
+    </div>
+
+    <p id="ReturnMovieLink">
+        <a href="~/Rentals/ReturnMovie">Click here to return a movie</a>
+    </p>
+
+    <script src="~/Scripts/jquery-3.1.1.js"></script>
+    <script>
+        function ajaxRequest() {
+            movieName = $("#movie").val();
+            customerName = $("#name").val();
+
+            $.ajax({
+                url: "/Rentals/InsertNewRental?name=" + customerName + "&movie=" + movieName,
+                type: "POST", dataType: "json", success: function (responseText)
+                {
+                    if (responseText.Isbool == false)
+                    {
+                        $("#showText").css({ "color": "green" }),
+                            $("#showText").text(responseText.strMsg)
+                    }
+                    else
+                    {
+                        $("#showText").css({ "color": "red" }),
+                            $("#showText").text(responseText.strMsg)
+                    }
+                }
+            })  
+            var x = document.getElementById("movie");
+            x.remove(x.selectedIndex);
+        };
+    </script>
+</body>
+</html>

@@ -1,0 +1,376 @@
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\roslyn\csc.exe
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\roslyn\csc.exe.config
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\roslyn\csc.rsp
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\roslyn\csi.exe
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\roslyn\csi.rsp
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\roslyn\System.AppContext.dll
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\roslyn\System.Collections.Immutable.dll
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\roslyn\System.IO.FileSystem.dll
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\roslyn\System.Reflection.Metadata.dll
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\roslyn\vbc.exe
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\roslyn\vbc.exe.config
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\roslyn\vbc.rsp
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\roslyn\VBCSCompiler.exe
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\roslyn\VBCSCompiler.exe.config
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\project_ASP.NET.dll.config
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\project_ASP.NET.dll
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\project_ASP.NET.pdb
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\Microsoft.Web.Infrastructure.dll
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\System.Web.Helpers.dll
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\System.Web.Mvc.dll
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\System.Web.Razor.dll
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.Deployment.dll
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.dll
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.Razor.dll
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\System.Web.Razor.xml
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.xml
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.Deployment.xml
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.Razor.xml
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\System.Web.Helpers.xml
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\bin\System.Web.Mvc.xml
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\obj\Debug\project_ASP.NET.csprojResolveAssemblyReference.cache
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\obj\Debug\project_ASP.NET.dll
+C:\AlizaZeru\ASP.NET\project_ASP.NET\project_ASP.NET\obj\Debug\project_ASP.NET.pdb
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\roslyn\csc.exe
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\roslyn\csc.exe.config
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\roslyn\csc.rsp
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\roslyn\csi.exe
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\roslyn\csi.rsp
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\roslyn\vbc.exe
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\roslyn\vbc.exe.config
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\roslyn\vbc.rsp
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\project_ASP.NET.dll.config
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\project_ASP.NET.dll
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\project_ASP.NET.pdb
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\System.Web.Helpers.dll
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\System.Web.Mvc.dll
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\System.Web.Razor.dll
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.Deployment.dll
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.dll
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.Razor.dll
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\System.Web.Razor.xml
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.xml
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.Deployment.xml
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.Razor.xml
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\System.Web.Helpers.xml
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\bin\System.Web.Mvc.xml
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\obj\Debug\project_ASP.NET.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\obj\Debug\project_ASP.NET.dll
+C:\Users\USER\Documents\קורס פיתוח .NET\project_ASP.NET\project_ASP.NET\obj\Debug\project_ASP.NET.pdb
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\roslyn\csc.exe
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\roslyn\csc.exe.config
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\roslyn\csc.rsp
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\roslyn\csi.exe
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\roslyn\csi.rsp
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\roslyn\System.AppContext.dll
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\roslyn\System.Collections.Immutable.dll
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\roslyn\System.IO.FileSystem.dll
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\roslyn\System.Reflection.Metadata.dll
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\roslyn\vbc.exe
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\roslyn\vbc.exe.config
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\roslyn\vbc.rsp
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\roslyn\VBCSCompiler.exe
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\roslyn\VBCSCompiler.exe.config
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\project_ASP.NET.dll.config
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\project_ASP.NET.dll
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\project_ASP.NET.pdb
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\Microsoft.Web.Infrastructure.dll
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\System.Web.Helpers.dll
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\System.Web.Mvc.dll
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\System.Web.Razor.dll
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.Deployment.dll
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.dll
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.Razor.dll
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\System.Web.Razor.xml
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.xml
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.Deployment.xml
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.Razor.xml
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\System.Web.Helpers.xml
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\bin\System.Web.Mvc.xml
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\obj\Debug\project_ASP.NET.csprojResolveAssemblyReference.cache
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\obj\Debug\project_ASP.NET.dll
+C:\AlizaZeru\project_ASP.NET\project_ASP.NET\obj\Debug\project_ASP.NET.pdb
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\roslyn\csc.exe
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\roslyn\csc.exe.config
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\roslyn\csc.rsp
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\roslyn\csi.exe
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\roslyn\csi.rsp
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\roslyn\System.AppContext.dll
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\roslyn\System.Collections.Immutable.dll
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\roslyn\System.IO.FileSystem.dll
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\roslyn\System.Reflection.Metadata.dll
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\roslyn\vbc.exe
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\roslyn\vbc.exe.config
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\roslyn\vbc.rsp
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\roslyn\VBCSCompiler.exe
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\roslyn\VBCSCompiler.exe.config
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\project_ASP.NET.dll.config
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\project_ASP.NET.dll
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\project_ASP.NET.pdb
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\Microsoft.Web.Infrastructure.dll
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\System.Web.Helpers.dll
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\System.Web.Mvc.dll
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\System.Web.Razor.dll
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.Deployment.dll
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.dll
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.Razor.dll
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\System.Web.Razor.xml
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.xml
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.Deployment.xml
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.Razor.xml
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\System.Web.Helpers.xml
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\bin\System.Web.Mvc.xml
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\obj\Debug\project_ASP.NET.csprojResolveAssemblyReference.cache
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\obj\Debug\project_ASP.NET.dll
+C:\AlizaZeru\ASP.NET\DataBase\project_ASP.NET\project_ASP.NET\obj\Debug\project_ASP.NET.pdb
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\roslyn\csc.exe
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\roslyn\csc.exe.config
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\roslyn\csc.rsp
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\roslyn\csi.exe
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\roslyn\csi.rsp
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\roslyn\System.AppContext.dll
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\roslyn\vbc.exe
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\roslyn\vbc.exe.config
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\roslyn\vbc.rsp
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\roslyn\VBCSCompiler.exe
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\project_ASP.NET.dll.config
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\project_ASP.NET.dll
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\project_ASP.NET.pdb
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\System.Web.Helpers.dll
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\System.Web.Mvc.dll
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\System.Web.Razor.dll
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.Deployment.dll
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.dll
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.Razor.dll
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\System.Web.Razor.xml
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.xml
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.Deployment.xml
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.Razor.xml
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\System.Web.Helpers.xml
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\bin\System.Web.Mvc.xml
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\obj\Debug\project_ASP.NET.csprojResolveAssemblyReference.cache
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\obj\Debug\project_ASP.NET.dll
+C:\Users\TC14\Documents\project_ASP.NET\project_ASP.NET\obj\Debug\project_ASP.NET.pdb
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\obj\Debug\project_ASP.NET.csprojResolveAssemblyReference.cache
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\obj\Debug\project_ASP.NET.dll
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\obj\Debug\project_ASP.NET.pdb
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\roslyn\csc.exe
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\roslyn\csc.exe.config
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\roslyn\csc.rsp
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\roslyn\csi.exe
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\roslyn\csi.rsp
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\roslyn\System.AppContext.dll
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\roslyn\vbc.exe
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\roslyn\vbc.exe.config
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\roslyn\vbc.rsp
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\roslyn\VBCSCompiler.exe
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\project_ASP.NET.dll.config
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\project_ASP.NET.dll
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\project_ASP.NET.pdb
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\System.Web.Helpers.dll
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\System.Web.Mvc.dll
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\System.Web.Razor.dll
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.Deployment.dll
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.dll
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.Razor.dll
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\System.Web.Razor.xml
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.xml
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.Deployment.xml
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.Razor.xml
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\System.Web.Helpers.xml
+C:\Users\TC14\Documents\שיעורי בית להגשה\project_ASP.NET\project_ASP.NET\bin\System.Web.Mvc.xml
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\roslyn\csc.exe
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\roslyn\csc.exe.config
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\roslyn\csc.rsp
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\roslyn\csi.exe
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\roslyn\csi.rsp
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\roslyn\System.AppContext.dll
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\roslyn\vbc.exe
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\roslyn\vbc.exe.config
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\roslyn\vbc.rsp
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\roslyn\VBCSCompiler.exe
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\project_ASP.NET.dll.config
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\project_ASP.NET.dll
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\project_ASP.NET.pdb
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\System.Web.Helpers.dll
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\System.Web.Mvc.dll
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\System.Web.Razor.dll
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.Deployment.dll
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.dll
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.Razor.dll
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\System.Web.Razor.xml
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.xml
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.Deployment.xml
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\System.Web.Webpages.Razor.xml
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\System.Web.Helpers.xml
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\bin\System.Web.Mvc.xml
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\obj\Debug\project_ASP.NET.csprojResolveAssemblyReference.cache
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\obj\Debug\project_ASP.NET.dll
+C:\Users\TC14\Desktop\project_ASP.NET\project_ASP.NET\obj\Debug\project_ASP.NET.pdb
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\roslyn\csc.exe
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\roslyn\csc.exe.config
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\roslyn\csc.rsp
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\roslyn\csi.exe
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\roslyn\csi.rsp
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\roslyn\System.AppContext.dll
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\roslyn\vbc.exe
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\roslyn\vbc.exe.config
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\roslyn\vbc.rsp
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\roslyn\VBCSCompiler.exe
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\project_ASP.NET.dll.config
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\project_ASP.NET.dll
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\project_ASP.NET.pdb
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\System.Web.Helpers.dll
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\System.Web.Mvc.dll
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\System.Web.Razor.dll
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\System.Web.Webpages.Deployment.dll
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\System.Web.Webpages.dll
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\System.Web.Webpages.Razor.dll
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\System.Web.Razor.xml
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\System.Web.Webpages.xml
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\System.Web.Webpages.Deployment.xml
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\System.Web.Webpages.Razor.xml
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\System.Web.Helpers.xml
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\bin\System.Web.Mvc.xml
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\obj\Debug\project_ASP.NET.csprojResolveAssemblyReference.cache
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\obj\Debug\project_ASP.NET.dll
+C:\Users\TC14\Desktop\project_ASP.NET_WithLINQ\project_ASP.NET\obj\Debug\project_ASP.NET.pdb

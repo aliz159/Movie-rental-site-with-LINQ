@@ -1,0 +1,106 @@
+﻿@using project_ASP.NET.DAL
+@model List<Movies>
+
+@{
+    Layout = "~/Layout.cshtml";
+}
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <style>
+        body {
+            background-image: url(/backgrounImg/54fbQz.jpg);
+            background-size: cover;
+            width: 98%;
+            height: calc(100%);
+
+        }
+        table {
+            background-color: black;
+            border-color: none;
+            width: 60%;
+            border-collapse: collapse;
+            margin: auto;
+            opacity: 0.75;
+            color: white;
+            font-size: 17px;
+            font-weight:bold;
+        }
+        tr:nth-child(even) {
+            background-color: #69d0df;
+        }
+
+        th, td {
+            padding: 10px;
+            text-align: left;
+            text-align: center;
+        }
+        th {
+            font-size: 25px;
+        }
+        a {
+            display: inline-block;
+            margin-right: 10px;
+            margin-left: 30px;
+            text-decoration: none;
+            color: black;
+            text-align: center;
+            width: 250px;
+            margin-bottom: 25px;
+            background-color: white;
+        }
+
+            a:visited {
+                color: black;
+            }
+
+            a:hover {
+                color: #61c5d5;
+            }
+
+        #p2 {
+            padding-top: 30px;
+            font-size: 25px;
+            font-family: Arial;
+            font-weight: bold;
+            margin-bottom: 70px;
+            text-align: center;
+            margin-bottom: 15px;
+            color:black;
+        }
+    </style>
+</head>
+
+
+<body>
+    <p id="p2">
+        <a href="~/Movies/New">Add new movie</a>
+    </p>
+
+
+    <h1 style="text-align:center">Movie List</h1>
+
+    <table>
+        <tr>
+            <th>Movie Name</th>
+            <th>Category</th>
+        </tr>
+
+                @foreach (var item in MoviesTabelHelper.GetMoviesList())
+                {
+                    <tr>
+                        <td>@item.Name</td>
+                        <td>@item.Category</td>
+                    </tr>
+                }
+    </table>
+</body>
+</html>
+
+
+
+

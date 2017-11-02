@@ -1,0 +1,118 @@
+﻿@using System.ComponentModel.DataAnnotations
+@{
+    Layout = "~/Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>New</title>
+
+    <style>
+        body {
+            background-image: url(/backgrounImg/54fbQz.jpg);
+            background-size: cover;
+            width: 98%;
+            height: calc(100%);
+        }
+        form {
+            width: 280px;
+            background-color: black;
+            border: 2px solid gray;
+            margin: auto;
+            padding: 20px;
+            font-size: 20px;
+            color:white;
+            margin-bottom:190px;
+            margin-top:110px;
+        }
+
+        input, select {
+            width: 250px;
+            height: 30px;
+            font-size: 20px;
+        }
+
+        #submit {
+            font-size: 20px;
+            font-weight: bold;
+            width: 100px;
+            height: 30px;
+            margin-top: 40px;
+        }
+
+            #submit:hover {
+                font-size: 19px;
+                background-color: dodgerblue;
+            }
+
+        .pRED{
+            color:red;
+            font-weight:bold;
+        }
+
+    </style>
+</head>
+
+
+<body>
+    <form method="post" action="/Movies/Save" onsubmit="return validateForm()" id="commentForm">
+
+        <h2>Add Movie Form</h2>
+
+        Enter Movie Name:<br />
+        <input type="text" name="movieName" id="movieName" required/>
+        <p class="pRED">@TempData["errorName"]</p>
+
+
+        <br /><br />Choose category:<br />
+        <select name="category" id="category" required>
+            <option selected></option>
+            <option>Action</option>
+            <option>Comedy</option>
+            <option>Romance</option>
+            <option>Family</option>
+        </select>
+        <p class="pRED">@TempData["errorCategory"]</p>
+
+        <p id="p3" style="color:red">@TempData["error"]</p>
+        <input id="submit" type="submit" value="Submit"/>
+        @Html.ValidationSummary()
+    </form>
+
+    <script>
+        function validateForm()
+        {
+                var x = document.getElementById("movieName").value;
+                var y = document.getElementById("category").value;
+
+                if (x == "" && y == "")
+                {
+                    document.getElementById('movieName').style.border = "1px solid red";
+                    document.getElementById('category').style.border = "1px solid red";
+                    document.getElementById('p3').innerText = "You must fill in all the fields!!";
+                    return false;
+                }
+                else if (y == "")
+                {
+                    document.getElementById('category').style.border = "1px solid red";
+                    document.getElementById('movieName').style.border = "1px solid #a9a9a9";
+                    document.getElementById('p3').innerText = "Please fill in the field marked in red";
+                    return false;
+                }
+                else if (x == "" || x == " " || x == "  " || x == "   " || x == "    " || x == "     ") {
+                    document.getElementById('movieName').style.border = "1px solid red";
+                    document.getElementById('category').style.border = "1px solid #a9a9a9";
+                    document.getElementById('p3').innerText = "Please fill in the field marked in red";
+                    return false;
+                }
+                else
+                {
+                    return true;
+                }           
+        }
+    </script>
+</body>
+</html>
